@@ -1,3 +1,4 @@
+// シリアルモニターに3秒間隔でHello Worldを出力
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
